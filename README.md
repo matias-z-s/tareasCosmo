@@ -1,2 +1,2 @@
 # tareasCosmo
-Repositorio con desarrollo de tareas numéricas para Cosmología 
+Repositorio para guardar el desarrollo de la parte númerica de tareas de Cosmología.
